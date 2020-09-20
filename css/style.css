@@ -2043,11 +2043,11 @@ ol {
   .slicknav_nav a:hover {
     border-radius: 0;
     background: transparent;
-    color: #000000;
+    color: #111111;
   }
 
   .slicknav_nav {
-    background: #ffffff;
+    background: #222222;
   }
 
   .slicknav_btn {
