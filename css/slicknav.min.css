@@ -98,7 +98,7 @@
 	padding: 0
 }
 .slicknav_menu .slicknav_icon-bar {
-	background-color: #fff
+	background-color: #000000;
 }
 .slicknav_btn {
 	margin: 5px 5px 6px;
@@ -111,7 +111,7 @@
 }
 .slicknav_nav {
 	clear: both;
-	color: #fff;
+	color: #000000;
 	margin: 0;
 	font-size: .875em
 }
